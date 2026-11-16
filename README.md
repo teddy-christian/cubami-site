@@ -1,6 +1,6 @@
-# Cubby site
+# Cubami site
 
-Public website for **Cubby** (`com.cubby.game`), published by Cubby Games.
+Public website for **Cubami** (`com.cubami.game`), published by Cubami Games.
 
 This repository exists so the Google Play privacy policy can be reached at a public URL. It does not contain the game source or any signing keys.
 
